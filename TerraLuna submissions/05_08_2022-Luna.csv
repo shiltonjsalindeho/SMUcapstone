@@ -1,0 +1,125 @@
+,all_awardings,allow_live_comments,author,author_flair_background_color,author_flair_css_class,author_flair_richtext,author_flair_text,author_flair_text_color,author_flair_type,author_fullname,author_is_blocked,author_patreon_flair,author_premium,awarders,can_mod_post,contest_mode,created_utc,domain,full_link,gildings,id,is_created_from_ads_ui,is_crosspostable,is_meta,is_original_content,is_reddit_media_domain,is_robot_indexable,is_self,is_video,link_flair_background_color,link_flair_css_class,link_flair_richtext,link_flair_template_id,link_flair_text,link_flair_text_color,link_flair_type,locked,media_only,no_follow,num_comments,num_crossposts,over_18,parent_whitelist_status,permalink,pinned,pwls,retrieved_on,score,selftext,send_replies,spoiler,stickied,subreddit,subreddit_id,subreddit_subscribers,subreddit_type,suggested_sort,thumbnail,title,total_awards_received,treatment_tags,upvote_ratio,url,whitelist_status,wls,created,post_hint,preview,removed_by_category,thumbnail_height,thumbnail_width,url_overridden_by_dest,poll_data
+0,[],False,lexwolfe,,,"[{'e': 'text', 't': 'Platinum | QC: CC 74 | KIN 13'}]",Platinum | QC: CC 74 | KIN 13,dark,richtext,t2_24bkjs8h,False,False,False,[],False,False,1651930645,self.CryptoCurrency,https://www.reddit.com/r/CryptoCurrency/comments/ukdh32/top_100_sorted_by_from_all_time_high/,{},ukdh32,False,True,False,False,False,True,True,False,#00a6a5,METRICS,"[{'e': 'text', 't': 'METRICS'}]",1c0b4b5e-2959-11ec-b004-0aa21184cd0a,METRICS,dark,richtext,False,False,True,1,0,False,all_ads,/r/CryptoCurrency/comments/ukdh32/top_100_sorted_by_from_all_time_high/,False,6,1651930656,1,"I got this data from the coingecko api though Age is an estimate from available data. 
+If you know python it's dead easy to get the CG data. A lot of the information you see on any coin page on the site there's no way to get a comparison. I'm always thinking ""I wonder how this compares to everything else"".  Looking at it now I guess it might also be useful to see days from ATH. 
+
+The conclusion of this table feels like a range from ""bad"" coins to ""good"" coins though at some point ""just bad"" turns into ""good to buy"". I'm thinking at VeChain. 
+
+| Name                    | Symbol | MCR | est Age | %from ATH |
+| ----------------------- | ------ | --- | ------- | --------- |
+| Internet Computer       | icp    | 38  | 2021    | 98.2      |
+| Zcash                   | zec    | 65  | 2016    | 96.3      |
+| Curve DAO Token         | crv    | 98  | 2020    | 95.7      |
+| Filecoin                | fil    | 41  | 2021    | 94.2      |
+| Dash                    | dash   | 97  | 2014    | 94.2      |
+| Bitcoin Cash            | bch    | 25  | 2017    | 92.7      |
+| NEO                     | neo    | 79  | 2016    | 91.6      |
+| EOS                     | eos    | 53  | 2017    | 91        |
+| IOTA                    | miota  | 73  | 2017    | 90.5      |
+| The Graph               | grt    | 52  | 2020    | 89.5      |
+| Flow                    | flow   | 61  | 2021    | 89.5      |
+| Theta Network           | theta  | 48  | 2020    | 85.9      |
+| Bitcoin SV              | bsv    | 72  | 2018    | 85.2      |
+| Klaytn                  | klay   | 55  | 2020    | 84.5      |
+| Synthetix Network Token | snx    | 87  | 2019    | 83.5      |
+| Ethereum Classic        | etc    | 34  | 2016    | 83.4      |
+| VeChain                 | vet    | 37  | 2020    | 83.2      |
+| PancakeSwap             | cake   | 50  | 2020    | 83.2      |
+| Uniswap                 | uni    | 36  | 2020    | 83.1      |
+| Gala                    | gala   | 85  | 2020    | 83        |
+| Dogecoin                | doge   | 12  | 2015    | 82.5      |
+| XRP                     | xrp    | 6   | 2014    | 82.4      |
+| Axie Infinity           | axs    | 46  | 2020    | 82.4      |
+| Theta Fuel              | tfuel  | 56  | 2020    | 82        |
+| Radix                   | xrd    | 80  | 2021    | 82        |
+| eCash                   | xec    | 71  | 2021    | 81        |
+| Loopring                | lrc    | 100 | 2019    | 80.9      |
+| Stellar                 | xlm    | 32  | 2015    | 80.6      |
+| Chiliz                  | chz    | 95  | 2019    | 80.3      |
+| Kusama                  | ksm    | 82  | 2020    | 79.9      |
+| Harmony                 | one    | 94  | 2020    | 79.7      |
+| Chainlink               | link   | 26  | 2017    | 79.5      |
+| Algorand                | algo   | 29  | 2019    | 79.3      |
+| Aave                    | aave   | 54  | 2020    | 79.2      |
+| Fantom                  | ftm    | 58  | 2020    | 79.2      |
+| Maker                   | mkr    | 78  | 2020    | 78.9      |
+| Quant                   | qnt    | 77  | 2018    | 78.7      |
+| Huobi BTC               | hbtc   | 69  | 2020    | 78.3      |
+| Enjin Coin              | enj    | 91  | 2017    | 78.3      |
+| Elrond                  | egld   | 42  | 2020    | 77.8      |
+| Waves                   | waves  | 70  | 2016    | 77.2      |
+| Shiba Inu               | shib   | 16  | 2020    | 76.9      |
+| Huobi Token             | ht     | 67  | 2019    | 76.8      |
+| Litecoin                | ltc    | 23  | 2015    | 76.5      |
+| Hedera                  | hbar   | 39  | 2020    | 76.2      |
+| Celo                    | celo   | 88  | 2020    | 75.9      |
+| The Sandbox             | sand   | 44  | 2020    | 75.8      |
+| Arweave                 | ar     | 83  | 2020    | 75.8      |
+| Decentraland            | mana   | 51  | 2017    | 75.6      |
+| Cardano                 | ada    | 8   | 2020    | 74.6      |
+| Stacks                  | stx    | 99  | 2020    | 74.6      |
+| Polkadot                | dot    | 13  | 2020    | 74.1      |
+| Helium                  | hnt    | 64  | 2020    | 73        |
+| Tezos                   | xtz    | 45  | 2018    | 71.6      |
+| Cronos                  | cro    | 22  | 2019    | 71        |
+| THORChain               | rune   | 57  | 2019    | 70.1      |
+| Zilliqa                 | zil    | 81  | 2020    | 68.6      |
+| Solana                  | sol    | 7   | 2020    | 68.5      |
+| Osmosis                 | osmo   | 74  | 2021    | 67.2      |
+| Polygon                 | matic  | 21  | 2019    | 63.9      |
+| BitDAO                  | bit    | 86  | 2021    | 63.9      |
+| TRON                    | trx    | 18  | 2017    | 63.8      |
+| Lido DAO                | ldo    | 96  | 2021    | 62.1      |
+| Cosmos Hub              | atom   | 27  | 2020    | 61.7      |
+| cUSDC                   | cusdc  | 63  | 2020    | 61.7      |
+| Convex Finance          | cvx    | 68  | 2021    | 61.1      |
+| Neutrino USD            | usdn   | 93  | 2020    | 61        |
+| Avalanche               | avax   | 14  | 2020    | 60.9      |
+| OKB                     | okb    | 31  | 2019    | 60.5      |
+| Monero                  | xmr    | 33  | 2015    | 59.7      |
+| FTX Token               | ftt    | 30  | 2019    | 57.5      |
+| NEXO                    | nexo   | 84  | 2018    | 52.8      |
+| ApeCoin                 | ape    | 35  | 2022    | 51.4      |
+| BitTorrent              | btt    | 62  | 2022    | 51.3      |
+| GateToken               | gt     | 92  | 2020    | 50.7      |
+| Wrapped Bitcoin         | wbtc   | 17  | 2019    | 48.9      |
+| Bitcoin                 | btc    | 1   | 2013    | 47.8      |
+| NEAR Protocol           | near   | 20  | 2020    | 47.5      |
+| BNB                     | bnb    | 4   | 2017    | 45.3      |
+| Ethereum                | eth    | 2   | 2015    | 44.8      |
+| cETH                    | ceth   | 49  | 2020    | 44.7      |
+| Lido Staked Ether       | steth  | 15  | 2020    | 44.3      |
+| Frax Share              | fxs    | 66  | 2021    | 42.7      |
+| KuCoin Token            | kcs    | 59  | 2019    | 40.7      |
+| Bonded Luna             | bluna  | 24  | 2022    | 38.3      |
+| Terra                   | luna   | 9   | 2020    | 38        |
+| STEPN                   | gmt    | 60  | 2022    | 32.4      |
+| Chain                   | xcn    | 75  | 2022    | 32.4      |
+| DeFiChain               | dfi    | 47  | 2020    | 23.2      |
+|                         |",True,False,False,CryptoCurrency,t5_2wlj3,4809834,public,new,self,Top 100 sorted by % from all time high,0,[],1.0,https://www.reddit.com/r/CryptoCurrency/comments/ukdh32/top_100_sorted_by_from_all_time_high/,all_ads,6,1651901845.0,,,,,,,
+1,[],False,Numerous_Sport_2774,,,"[{'e': 'text', 't': 'Platinum | QC: CC 756'}]",Platinum | QC: CC 756,dark,richtext,t2_7zr0o2hb,False,False,False,[],False,False,1651910755,thecryptobasic.com,https://www.reddit.com/r/CryptoCurrency/comments/uk8lif/cardano_ada_overthrows_terra_luna_to_become/,{},uk8lif,False,False,False,False,False,False,False,False,#0aa18f,NEWS,"[{'e': 'text', 't': 'GENERAL-NEWS'}]",f170aab2-246f-11ec-8143-429a193c9848,GENERAL-NEWS,light,richtext,False,False,True,0,0,False,all_ads,/r/CryptoCurrency/comments/uk8lif/cardano_ada_overthrows_terra_luna_to_become/,False,6,1651910766,1,,True,False,False,CryptoCurrency,t5_2wlj3,4809149,public,,https://b.thumbs.redditmedia.com/_xgrdTNWg3AdHEgWA3i3XBokxSQBAeplbNxgMmEJqvg.jpg,Cardano (ADA) Overthrows Terra (LUNA) to Become 8th-Largest Cryptocurrency Amid Market Dip,0,[],1.0,https://thecryptobasic.com/2022/05/07/cardano-ada-overthrows-terra-luna-to-become-8th-largest-cryptocurrency-amid-market-dip/,all_ads,6,1651881955.0,link,"{'enabled': False, 'images': [{'id': 'jx7eyeh7dP3fKD8ry9f0QGNhrCmhkQ_MFZ8Zoq6rfA8', 'resolutions': [{'height': 49, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=5ff7a8768138087982982b3116914c8e49eb9f24', 'width': 108}, {'height': 98, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=c6a98c2c34508be68d1e5d435bada6ad9f9d0e9d', 'width': 216}, {'height': 145, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=77d7bd350280a78c8b4aeebb7b6929a9001d20c0', 'width': 320}, {'height': 290, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=2036b2ad53b94fa9e5156f24118bf6f006be4971', 'width': 640}, {'height': 436, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=289123fc5d97fa810d79862f665dd8112d1c0962', 'width': 960}, {'height': 490, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=55df1b6c1bfcb44344252a1dc72cd16e39cf824d', 'width': 1080}], 'source': {'height': 556, 'url': 'https://external-preview.redd.it/7sb91NCdXvpmBiUysmtD7DP6nWAJadVNBObdjucGifY.jpg?auto=webp&amp;s=3c5528cf0522a56f64895463a6f461b34b573ce9', 'width': 1223}, 'variants': {}}]}",moderator,63.0,140.0,https://thecryptobasic.com/2022/05/07/cardano-ada-overthrows-terra-luna-to-become-8th-largest-cryptocurrency-amid-market-dip/,
+2,[],False,Rjk214,,Warning-level1-1,"[{'e': 'text', 't': 'Bronze | QC: ALGO 15 | r/WSB 30'}]",Bronze | QC: ALGO 15 | r/WSB 30,dark,richtext,t2_w4fpp,False,False,False,[],False,False,1651906234,self.CryptoCurrency,https://www.reddit.com/r/CryptoCurrency/comments/uk7k34/what_i_dont_understand_is_why_everyone_is_not_in/,{},uk7k34,False,False,False,False,False,False,True,False,#46d160,ADVICE,"[{'e': 'text', 't': 'ADVICE'}]",e9570888-9c2a-11e3-809c-12313d1661cc,ADVICE,dark,richtext,False,False,True,1,0,False,all_ads,/r/CryptoCurrency/comments/uk7k34/what_i_dont_understand_is_why_everyone_is_not_in/,False,6,1651906244,1,[removed],True,False,False,CryptoCurrency,t5_2wlj3,4809022,public,new,self,What I don’t understand is why everyone is not in LUNA during this “Bear Market”,0,[],1.0,https://www.reddit.com/r/CryptoCurrency/comments/uk7k34/what_i_dont_understand_is_why_everyone_is_not_in/,all_ads,6,1651877434.0,,,moderator,,,,
+3,[],False,Dramatic_Shelter6835,,,[],,,text,t2_l1fc3mty,False,False,False,[],False,False,1651888079,self.CryptoCurrency,https://www.reddit.com/r/CryptoCurrency/comments/uk2sby/a_guy_asked_me_to_withdrawal_my_luna_to_an_address/,{},uk2sby,False,False,False,False,False,False,True,False,#7193ff,DISCUSSION,"[{'e': 'text', 't': 'DISCUSSION'}]",87049662-0882-11e5-82e1-0e9d1a9f7761,DISCUSSION,dark,richtext,False,False,True,3,0,False,all_ads,/r/CryptoCurrency/comments/uk2sby/a_guy_asked_me_to_withdrawal_my_luna_to_an_address/,False,6,1651888089,1,[removed],True,False,False,CryptoCurrency,t5_2wlj3,4808358,public,,self,A guy asked me to withdrawal my luna to an address,0,[],1.0,https://www.reddit.com/r/CryptoCurrency/comments/uk2sby/a_guy_asked_me_to_withdrawal_my_luna_to_an_address/,all_ads,6,1651859279.0,,,reddit,,,,
+4,[],False,Previous-Quantity-28,,,[],,,text,t2_mr4c24et,False,False,False,[],False,False,1651870466,self.CryptoCurrency,https://www.reddit.com/r/CryptoCurrency/comments/ujx2v9/lost_over_10000_worth_of_luna_accidentally/,{},ujx2v9,False,True,False,False,False,True,True,False,#46d160,ADVICE,"[{'e': 'text', 't': 'ADVICE'}]",e9570888-9c2a-11e3-809c-12313d1661cc,ADVICE,dark,richtext,False,False,True,1,0,False,all_ads,/r/CryptoCurrency/comments/ujx2v9/lost_over_10000_worth_of_luna_accidentally/,False,6,1651870477,1,"I am hoping someone can help as this is an urgent matter for me to able to recover these fund and my only source of savings that I have.
+
+To break it down simply, I **bought LUNA** on the **ETHERUM blockchain** (public address is 0x4FbE370070b5107eD8A036CD9cBe478A83F1a8cD) on **MetaMask** and sent it to the ETHERUM address (0x9b96a06a4375f4f3af1bd1a5e b118beaa1d85661) on the **Binance Exchange**.
+
+[https://etherscan.io/tx/0xe168b7314d220c45b800129c43c1f8ae2f72dd1ff38b1fa48b5bb5048ebecd25](https://etherscan.io/tx/0xe168b7314d220c45b800129c43c1f8ae2f72dd1ff38b1fa48b5bb5048ebecd25)
+
+Here is proof the transaction and the total amount of LUNA (around 90.9) that was sent.
+
+I feel that my mistake is I should of exchanged it as **WRAPPED LUNA** since LUNA's has its own **native blockchain (TERRA).**
+
+I want to know if there was a way to recover these funds and if Binance can do anything to help my case?
+
+Any help would be greatly appreciated guys",True,False,False,CryptoCurrency,t5_2wlj3,4807624,public,new,self,"Lost over 10,000$ worth of LUNA, accidentally sending to the wrong blockchain (sent through ETH blockchain) from MetaMask to Binance Exchange. Is it possible to recover funds?",0,[],1.0,https://www.reddit.com/r/CryptoCurrency/comments/ujx2v9/lost_over_10000_worth_of_luna_accidentally/,all_ads,6,1651841666.0,,,,,,,
+5,[],False,NatashaHart,,,[],,,text,t2_ewid0xbj,False,False,False,[],False,False,1651868378,bitcoin-extends.top,https://www.reddit.com/r/Bitcoin/comments/ujwbjv/bitcoin_extends_selloff_despite_luna_buying/,{},ujwbjv,False,False,False,False,False,False,False,False,,,[],,,dark,text,False,False,True,0,0,False,all_ads,/r/Bitcoin/comments/ujwbjv/bitcoin_extends_selloff_despite_luna_buying/,False,6,1651868389,1,,True,False,False,Bitcoin,t5_2s3qj,4167352,public,,https://b.thumbs.redditmedia.com/5A1ErtHTnHFOJfJkhN3EbE1VdoGar0nTq2SJjDJ6ENA.jpg,"Bitcoin Extends Sell-Off Despite Luna Buying, Strong On-Chain Data",0,[],1.0,https://bitcoin-extends.top,all_ads,6,1651839578.0,link,"{'enabled': False, 'images': [{'id': '8-shzfYO0z8SCChVn-CcbcqgiGQboSzXj7-xehwYZm8', 'resolutions': [{'height': 66, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=c61a1e882aef0ce328543c36cf10728a4ad99ad8', 'width': 108}, {'height': 132, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=4f7892264bfd2bff169c106a33ce6058a935170e', 'width': 216}, {'height': 196, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=706678388e82ed52e8a1ead34799df95c281c047', 'width': 320}, {'height': 392, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=b33122d4b779ab57e6a060bb5e0948c14566aa68', 'width': 640}, {'height': 588, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=f3ba97233f8cc156b8e014c70f1b6d8c3fee5325', 'width': 960}, {'height': 661, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=27f13c4ee04a0f19253c10aa75a4593aae0bd31b', 'width': 1080}], 'source': {'height': 805, 'url': 'https://external-preview.redd.it/cnD5aTJLxPY0U6LyB05YTfkdHm6nfT2-omTnACQj5cI.jpg?auto=webp&amp;s=e9c444390e825f6c20a09e73a69cee3f804a7d17', 'width': 1314}, 'variants': {}}]}",moderator,85.0,140.0,https://bitcoin-extends.top,
+6,[],False,Mister_VWP,,Warning-level1-1,"[{'e': 'text', 't': 'Bronze'}]",Bronze,dark,richtext,t2_5onf2ewl,False,False,False,[],False,False,1651868320,dailyhodl.com,https://www.reddit.com/r/CryptoCurrency/comments/ujwasf/terra_luna_backer_continues_bitcoinbuying_spree/,{},ujwasf,False,True,False,False,False,True,False,False,#0aa18f,NEWS,"[{'e': 'text', 't': 'GENERAL-NEWS'}]",f170aab2-246f-11ec-8143-429a193c9848,GENERAL-NEWS,light,richtext,False,False,True,1,0,False,all_ads,/r/CryptoCurrency/comments/ujwasf/terra_luna_backer_continues_bitcoinbuying_spree/,False,6,1651868331,1,,True,False,False,CryptoCurrency,t5_2wlj3,4807537,public,new,https://a.thumbs.redditmedia.com/4vnp3ey1mePKfCfeUvseNNxjVNowqviuKjNLAbzfD80.jpg,"Terra (LUNA) Backer Continues Bitcoin-Buying Spree, Acquires Another $1,500,000,000 in BTC - The Daily Hodl",0,[],1.0,https://dailyhodl.com/2022/05/06/terra-luna-backer-continues-bitcoin-buying-spree-acquires-another-1500000000-in-btc/,all_ads,6,1651839520.0,link,"{'enabled': False, 'images': [{'id': '4vHHMQgQHiWtvQTahBwGdN88iqPsTKx22Lr5kSvwwqM', 'resolutions': [{'height': 63, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=dab221a19688c8e3f0dff135da4dfd89133d5a78', 'width': 108}, {'height': 126, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=0dc0afa4f195e4111c94750c489beebba4cbbbc1', 'width': 216}, {'height': 187, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=320&amp;crop=smart&amp;auto=webp&amp;s=e153877abb62b340fdb88c55e228bbfde2337b53', 'width': 320}, {'height': 375, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=640&amp;crop=smart&amp;auto=webp&amp;s=8cd175cf2ef2eea1f90d0be4b2f4984433425a02', 'width': 640}, {'height': 562, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=960&amp;crop=smart&amp;auto=webp&amp;s=42e4b9de743cfe99905a78adb9bb536fbe362608', 'width': 960}, {'height': 632, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?width=1080&amp;crop=smart&amp;auto=webp&amp;s=f51ba8859dbf62aed096f94703d43b37c429a05f', 'width': 1080}], 'source': {'height': 800, 'url': 'https://external-preview.redd.it/btdiOiooiVfJxF8yhPVnzLtZogO91PslIr4mOT6OMjM.jpg?auto=webp&amp;s=c70408c99c6f844408c736e6cc01de088d6e479c', 'width': 1365}, 'variants': {}}]}",,82.0,140.0,https://dailyhodl.com/2022/05/06/terra-luna-backer-continues-bitcoin-buying-spree-acquires-another-1500000000-in-btc/,
+7,[],False,nanooverbtc,, Moon,"[{'e': 'text', 't': 'Redditor for 2,000 years.'}]","Redditor for 2,000 years.",dark,richtext,t2_3hjrpgfp,False,False,True,[],False,False,1651854002,self.CryptoCurrency,https://www.reddit.com/r/CryptoCurrency/comments/ujr4nq/how_much_will_the_price_of_terra_move_by_monday/,{},ujr4nq,False,True,False,False,False,True,True,False,,POLL,"[{'e': 'text', 't': '🗳 POLL'}]",,🗳 POLL,dark,richtext,False,False,True,2,0,False,all_ads,/r/CryptoCurrency/comments/ujr4nq/how_much_will_the_price_of_terra_move_by_monday/,False,6,1651854012,1,"Reference price: **$81.25**
+
+[Data will be sourced from CoinGecko](https://www.coingecko.com/en/coins/terra-luna)
+
+**FILTERING CRITERIA: 1w, USD, Linear Chart, Close Chart**
+
+Winning results will be based on the price **at 12 pm PDT on May 16th.** Results of the prediction will be revealed **between 11:59 AM PDT and 11:59 PM PDT the day after the prediction date.**
+
+[View Poll](https://www.reddit.com/poll/ujr4nq)",True,False,False,CryptoCurrency,t5_2wlj3,4806887,public,,self,"How much will the price of Terra move by Monday, May 16th?",0,[],1.0,https://www.reddit.com/r/CryptoCurrency/comments/ujr4nq/how_much_will_the_price_of_terra_move_by_monday/,all_ads,6,1651825202.0,self,"{'enabled': False, 'images': [{'id': 'toOGPz1yPGlLuv8YS-PJ7gyP-y1c_3K06SyL1TdUp-4', 'resolutions': [{'height': 108, 'url': 'https://external-preview.redd.it/e7h9mgWwY4NtaciInLAn38mY_khA_DPLSjBT1v78rDE.jpg?width=108&amp;crop=smart&amp;auto=webp&amp;s=25532fa337e8552704aab92d5acc4ea092a741e9', 'width': 108}, {'height': 216, 'url': 'https://external-preview.redd.it/e7h9mgWwY4NtaciInLAn38mY_khA_DPLSjBT1v78rDE.jpg?width=216&amp;crop=smart&amp;auto=webp&amp;s=27e47f83963b62e77b386747ee8e2286c59d9a4d', 'width': 216}], 'source': {'height': 250, 'url': 'https://external-preview.redd.it/e7h9mgWwY4NtaciInLAn38mY_khA_DPLSjBT1v78rDE.jpg?auto=webp&amp;s=b340f4fe4a2a7b0e9dc6c0d2426997a9b189952c', 'width': 250}, 'variants': {}}]}",,,,,"{'is_prediction': True, 'options': [{'id': '15684078', 'text': '+20% or more'}, {'id': '15684079', 'text': '+10-20%'}, {'id': '15684080', 'text': '+0-10%'}, {'id': '15684081', 'text': '-0-10%'}, {'id': '15684082', 'text': '-10-20%'}, {'id': '15684083', 'text': '-20% or more'}], 'prediction_status': 'OPEN', 'resolved_option_id': None, 'total_stake_amount': 0, 'total_vote_count': 0, 'tournament_id': 'tnmt-67c5a5ac-1463-484a-832e-3c398c132e34', 'user_selection': None, 'user_won_amount': None, 'vote_updates_remained': None, 'voting_end_timestamp': 1652122800000}"
